@@ -20,7 +20,7 @@ Pract1 YT Vid init. 2018/10/19
 ### F/Pract1 YT Vid init. 2018/10/19
 
 -Added 2 divs with Lorem text (Lorem80 & Lorem30) in a wrapper class(Grid)
--Styles the Wrapper div Backgrounds [Added a property to div - "div:nth-child(odd)"  second div is the odd one out which styles the BG as #ddd]
+-Styles the Wrapper div Backgrounds [Added a property to div - "div:nth-child(odd)"  first div(Has its own styling) is the odd one out which styles the BG as #ddd]
 
 ---
 
