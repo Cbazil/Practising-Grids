@@ -2,15 +2,11 @@
 
 ## Tools
 
-html
-
-CSS
-
-RS
-
-VSCODE
-
-Chrome Web Browser
+ html
+ CSS
+ RS
+ VSCODE
+ Chrome Web Browser
 
 ---
 
