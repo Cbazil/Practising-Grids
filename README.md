@@ -3,9 +3,13 @@
 ## Tools
 
 html
+
 CSS
+
 RS
+
 VSCODE
+
 Chrome Web Browser
 
 ---
@@ -16,6 +20,16 @@ Pract1 YT Vid init. 2018/10/19
 
 ---
 
+## Change log
+### F/Pract1 YT Vid init. 2018/10/19
+
+-
+
+---
+
 ## License & copyright
 
 &copy; Chad Bosch, Practice 2018
+
+
+
